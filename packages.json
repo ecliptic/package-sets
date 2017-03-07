@@ -2098,7 +2098,7 @@
             "unsafe-coerce"
         ],
         "repo": "https://github.com/ecliptic/purescript-mini-redux.git",
-        "version": "v1.1.0",
+        "version": "v1.1.0"
     },
     "monoid": {
         "dependencies": [
